@@ -1,0 +1,11 @@
+{
+  "name": "testetypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/killvorak2/testetypescript.git",
+  "author": "Marcelo <marcelo.ceribelli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
